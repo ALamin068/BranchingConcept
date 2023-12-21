@@ -1,0 +1,16 @@
+<suite name="Parameterized">
+	<parameter name="browser" value="chrome">
+
+	</parameter>
+	<test name="test2">
+
+	</test>
+
+	<test name="test2">
+		<parameter name="url" value="https://www.facebook.com">
+
+		</parameter>
+	</test>
+
+
+</suite>
